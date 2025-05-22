@@ -13,13 +13,13 @@
 > ⚠️ 由于 Clash 及其部分周边生态项目于 2023 年 11 月上旬删库跑路，现提供部分官方原版安装包、可执行文件，详情见 [**hidden**](https://github.com/Loyalsoldier/clash-rules/tree/hidden) 分支。
 
 - Clash Premium **命令行**版：
-  - [官方版](https://github.com/Loyalsoldier/clash-rules/tree/hidden/software/clash-premium)（适用于 Windows、macOS、Linux、OpenWRT 等多种平台）
+  - [官方版](https://github.com/rabbit0717/clash-rules/tree/master/clash-premium)（适用于 Windows、macOS、Linux、OpenWRT 等多种平台）
   - [衍生版 Clash.Meta](https://github.com/MetaCubeX/Clash.Meta/releases)（适用于 Windows、macOS、Linux、OpenWRT 等多种平台）
 - Clash Premium **图形用户界面**版：
   - [ClashN](https://github.com/2dust/clashN/releases)（适用于 Windows）
-  - [ClashX Pro](https://github.com/Loyalsoldier/clash-rules/tree/hidden/software/clashx-pro)（适用于 macOS）
+  - [ClashX Pro](https://github.com/rabbit0717/clash-rules/tree/master/clashx-pro)（适用于 macOS）
   - [Clash-verge](https://github.com/zzzgydi/clash-verge/releases)（适用于 Windows、macOS、Linux）
-  - [Clash for Windows](https://github.com/Loyalsoldier/clash-rules/tree/hidden/software/clash-for-windows)（适用于 Windows、macOS、Linux）
+  - [Clash for Windows](https://github.com/rabbit0717/clash-rules/tree/master/clash-for-windows)（适用于 Windows、macOS、Linux）
   - [Clash for Android](https://apkpure.com/clash-for-android/com.github.kr328.clash/versions)（适用于 Android）
 
 ## 规则文件地址及使用方式
